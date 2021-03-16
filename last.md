@@ -11,6 +11,5 @@ page_sections:
   image: media/2021/03/16/firewatch_3.jpg
   slug: ''
   caption: ''
-published: false
 
 ---
