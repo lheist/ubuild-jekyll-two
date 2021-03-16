@@ -37,5 +37,10 @@ page_sections:
     in the verses of a poem.A man who did not want to be identified <a href="https://www.santafenewmexican.com/news/local_news/forrest-fenn-confirms-his-treasure-has-been-found/article_37006cfe-a8d7-11ea-8653-873ca96e31ef.html"
     title="">found the chest</a>, confirming the discovery with a photograph of it,
     Mr. Fenn told the newspaper The Santa Fe New Mexican.
+menu:
+  main:
+    identifier: home
+    weight: 1
+    title: Home
 
 ---
