@@ -7,7 +7,7 @@ page_sections:
   block: hero-2
   background_image: "/media/v1615911904/jekyll-two/2021/03/16/caebcde1-0254-4dcb-bee8-0e3cff3c29f1_rne83c.jpg"
   image:
-    image: "/media/v1615911904/jekyll-two/2021/03/16/caebcde1-0254-4dcb-bee8-0e3cff3c29f1_rne83c.jpg"
+    image: media/2021/03/16/firewatch_1.jpg
     alt_text: helicopter
   headline: ''
   content: ''
