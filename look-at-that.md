@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Look at that
+title: index
 date: 2021-03-30 22:00:00 +0000
 page_sections:
 - template: hero-banner-w-image
