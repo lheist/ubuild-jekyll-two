@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Look at that
-date: 
+date: 2021-03-30 22:00:00 +0000
 page_sections:
 - template: hero-banner-w-image
   block: hero-2
@@ -15,14 +15,10 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
+- template: 1-column-text
+  block: one-column-1
   headline: ''
   slug: ''
   content: ''
-  media:
-    image: ''
-    alt_text: ''
 
 ---
